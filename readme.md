@@ -1,1 +1,2 @@
-Randi Cheuk 20713469
+Name: Cheuk Hung Sing
+ID: 20713469
